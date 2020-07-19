@@ -3,3 +3,5 @@ config:
 
 app:
   name: git
+
+  username: ahaha
