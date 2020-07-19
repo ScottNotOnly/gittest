@@ -1,2 +1,5 @@
 config:
   info: root
+
+app:
+  name: git
